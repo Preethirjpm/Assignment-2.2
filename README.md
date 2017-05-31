@@ -1,2 +1,2 @@
-# Assignment-2.2
-Java Assignment 2.2
+# Assignment-8.2
+Java Assignment 8.2
